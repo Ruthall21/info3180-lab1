@@ -1,4 +1,5 @@
-# INFO3180 Lab 1 Starter Code
+# INFO3180 Lab 1
+This is Lab 1 for Ruth-Ann Allen
 
 1. Fork this repository to your account and then clone this repository to your computer.
 2. cd info3180-lab1
